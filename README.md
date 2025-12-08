@@ -1,3 +1,4 @@
+<img src="http://localhost:3000/api/widget/0dc2300e-a78b-4d12-bdb4-fab094aa9eb3/svg" alt="MakerProof Revenue" style="max-width:600px;width:100%;height:auto;" />
 ## Hi there 👋
 
 <!--
