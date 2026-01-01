@@ -1,6 +1,6 @@
 ## Hi there 👋 Would you look at this magnificent Widget...
 
-<img src="https://makerproof.net/api/widget/3fc96962-1f22-44b3-b89b-98d66933f959/svg" width="400" height="150" style="max-width:400px;width:100%;height:auto;" loading="lazy" alt="MakerProof Revenue Widget" />
+<img src="https://makerproof.net/api/widget/3fc96962-1f22-44b3-b89b-98d66933f959/svg" width="600" height="225" style="max-width:600px;width:100%;height:auto;" loading="lazy" alt="MakerProof Revenue Widget" />
 
 <!--
 **adamrapidscreen/adamrapidscreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
